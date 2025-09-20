@@ -1,6 +1,3 @@
-# Tetris
-HTML5 Tetris
-
 #Tetris
 =================
 A HTML5 Tetris Game
